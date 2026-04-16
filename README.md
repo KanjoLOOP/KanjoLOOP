@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  DevOps & SysAdmin Junior | Cloud, Linux & Infrastructure <br>
+  DevOps & SysAdmin Junior | Cloud, Automation & Development <br>
   <code>&lt;EnzoDevOps/&gt;</code>
 </h3>
 
@@ -16,11 +16,12 @@
 ### 👨‍💻 About Me
 
 - ☁️ **DevOps & SysAdmin Junior** with hands-on experience designing and operating production infrastructure on AWS.
-- 🛠️ Strong focus on **automation, security and scalability**: from provisioning to monitoring and disaster recovery.
+- 🛠️ Strong focus on **automation, security and scalability**, combined with solid development skills.
+- 🐍 Use **Python & Bash** for scripting, data ingestion and automation workflows.
 - 🧱 Experience building **self-hosted stacks** (Supabase, PostgreSQL, Nginx) with Docker in real environments.
 - 🔐 Interested in **Linux hardening, networking and cloud architecture**.
 - 🌍 **Trilingual:** Spanish & French (native) | English (professional).
-- 🚀 Currently learning: **Terraform, Kubernetes, CI/CD pipelines and observability stacks**.
+- 🚀 Currently learning: **Terraform, Kubernetes, CI/CD pipelines and advanced observability**.
 
 ---
 
@@ -41,6 +42,9 @@
 - 📊 **Observability & Monitoring**  
   Sentry integration, log analysis and resource alerts.
 
+- 🐍 **Data & Automation**  
+  Python scripts for data ingestion (OpenStreetMap) and workflow automation.
+
 ---
 
 ### 🛠 &nbsp;Tech Stack
@@ -51,21 +55,21 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-#### 🧠 Backend & Data
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
+#### 🧠 Backend, Data & Scripting
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### ⚙️ Tools & Workflow
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%230A0FFF.svg?style=for-the-badge)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge)
 
 #### 💻 Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%230A0FFF.svg?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ---
 
