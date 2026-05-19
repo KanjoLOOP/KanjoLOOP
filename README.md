@@ -8,7 +8,7 @@
 
 <h3 align="center">
   DevOps & SysAdmin Junior | Cloud, Automation & Development <br>
-  <code>&lt;EnzoDevOps/&gt;</code>
+  <code>&lt;Enzo/&gt;</code>
 </h3>
 
 ---
